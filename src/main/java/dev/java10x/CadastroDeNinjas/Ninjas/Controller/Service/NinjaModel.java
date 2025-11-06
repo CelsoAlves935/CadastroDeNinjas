@@ -1,7 +1,6 @@
 package dev.java10x.CadastroDeNinjas.Ninjas.Controller.Service;
 
 
-import org.hibernate.annotations.ManyToAny;
 
 import dev.java10x.CadastroDeNinjas.Missoes.MissoesModel;
 import jakarta.persistence.Entity;
