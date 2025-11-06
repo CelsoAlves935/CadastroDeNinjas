@@ -1,0 +1,23 @@
+[33mcommit 99cfbb11ebecbfb2d5009f45ae9bcfcdbce8c465[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAula2[m[33m)[m
+Author: CelsoAlves935 <celsoaao7@gmail.com>
+Date:   Wed Nov 5 17:20:55 2025 -0300
+
+     mensagem de commmit
+
+[33mcommit 8ea07b77d370f0ad1bc75fc572ae851498e1fa19[m[33m ([m[1;31morigin/Aula2[m[33m)[m
+Author: CelsoAlves935 <celsoaao7@gmail.com>
+Date:   Wed Nov 5 17:10:21 2025 -0300
+
+    Cria uma entidade no banco de dados apartir do NinjaModel [Aula03]
+
+[33mcommit b2dfc8e470de7a277cdeaa32f59606d0d258ca41[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: CelsoAlves935 <celsoaao7@gmail.com>
+Date:   Wed Nov 5 13:15:23 2025 -0300
+
+    Criado a controller Aula 2
+
+[33mcommit e50731bd67021a981feb42fcb21aa3b6c3144ce0[m
+Author: CelsoAlves935 <celsoaao7@gmail.com>
+Date:   Wed Nov 5 12:36:21 2025 -0300
+
+    first commit
